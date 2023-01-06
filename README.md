@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vinacolada
 - 👀 I’m interested in web development, data science, and cybersecurity among others
 - 🌱 I’m currently learning Django
+- 🎲 Also starting with Machine Learning
 - 📫 You can reach me through my email aranetavincent74@gmail.com
 
 <!---
